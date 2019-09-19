@@ -1,0 +1,12 @@
+{
+  "name": "tony-helloworld",
+  "version": "1.0.0",
+  "description": "test version",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "tony ngo",
+  "license": "ISC"
+}
